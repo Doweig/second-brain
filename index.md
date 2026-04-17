@@ -28,3 +28,9 @@
 - [[reports/README|reports]]
 - [[inbox/README|inbox]]
 - [[archive/README|archive]]
+
+## Seed Pages
+- [[projects/second-brain|Second Brain]]
+- [[projects/personal-work-rollup-automation|Personal Work Rollup Automation]]
+- [[concepts/identity-grounded-work-rollups|Identity-Grounded Work Rollups]]
+- [[personal/2026-04-16-second-brain-setup-reflection|Second Brain Setup Reflection]]
