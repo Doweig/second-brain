@@ -4,7 +4,7 @@
 
 ## State
 - **Goal:** Keep `ops/tasks.md` fresh as the canonical board and use it as the review surface for manual standup drafting.
-- **Current cadence:** Automated board refreshes at 08:00 / 12:00 / 16:00 Bangkok using the morning refresh path; no autonomous evening standup post is currently trusted.
+- **Current cadence:** Automated board refreshes at 08:00 / 16:00 Bangkok using the morning refresh path; no autonomous evening standup post is currently trusted.
 - **Inputs:** Assigned Linear issues, user-attributable GitHub activity, user-scoped Slack activity, and local git evidence.
 - **Current status:** Board-refresh plumbing exists and is running, but cross-system identity resolution remains the main blocker to autonomous rollups.
 - **Board home:** `ops/tasks.md` remains the canonical task board inside the brain.
@@ -31,3 +31,4 @@
 - 2026-04-17 — Existing morning and evening standup review cron jobs were confirmed, and thread-aware delivery was investigated as a likely next refinement. [Source: session recall, 2026-04-17 17:35 Discord]
 - 2026-04-18 — The scheduled morning review faulted when Slack MCP OAuth required browser authorization in a non-interactive cron context, reinforcing that Slack-backed automation was still fragile. [Source: session recall, 2026-04-18 08:07 Discord]
 - 2026-04-18 — The workflow shifted to todo-board refreshes at 08:00 / 12:00 / 16:00 Bangkok, using the morning refresh engine and leaving standup drafting manual in chat. [Source: session recall, 2026-04-18 22:09 Discord]
+- 2026-04-19 — William narrowed the board-refresh cadence to 08:00 / 16:00 Bangkok while keeping standup drafting manual. [Source: session recall, 2026-04-19 15:06 Discord]

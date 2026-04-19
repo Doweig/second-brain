@@ -11,13 +11,14 @@
 - **Preferred chat surface:** Discord-first, with Telegram optional as a lighter side entry later.
 - **Slack stance:** The desired end state is a private analyst / user-auth workflow, not a visible app-style bot as the default surface.
 - **Voice capture:** Voice notes and spoken reflections are high-value inputs; TTS is deprioritized for now because recent experiments were frustrating.
-- **Current daily ops rhythm:** `ops/tasks.md` is refreshed as a todo board at 08:00 / 12:00 / 16:00 Bangkok, while standup drafting stays manual in chat until attribution and Slack auth are trustworthy.
+- **Migration stance:** `the-vault` is now being approached as an archive-first, PR-batched historical import followed by canonical overlay rewrites, not a selective-only salvage pass.
+- **Current daily ops rhythm:** `ops/tasks.md` is refreshed as a todo board at 08:00 / 16:00 Bangkok, while standup drafting stays manual in chat until attribution and Slack auth are trustworthy.
 - **Embeddings:** Working in the current GBrain shell/runtime (`gbrain doctor --json` reported 91% coverage, 3 pages still missing embeddings on 2026-04-17)
 
 ## Open Threads
-- Decide what to migrate first from `the-vault`
+- Execute the PR-driven archive import from [The Vault PR Batch Migration Plan](./the-vault-pr-batch-plan.md), then start canonical overlay rewrites from [The Vault Salvage Plan](./the-vault-salvage-plan.md)
 - Decide whether any part of `task-vault` should be preserved verbatim versus translated into GBrain task patterns
-- Add initial seed pages so the brain contains real working context
+- Keep converting repeated operating themes into durable pages instead of leaving them only in sessions
 - Make work rollups / standups identity-grounded across Slack, GitHub, Linear, and local git before trusting narrative automation
 - Decide the durable Slack path that best matches the user-auth/private-analyst goal and does not break cron with interactive auth
 - Backfill the 3 pages still missing embeddings coverage
@@ -27,6 +28,8 @@
 - [[RESOLVER]]
 - [[schema]]
 - [[ops/tasks]]
+- [The Vault PR Batch Migration Plan](./the-vault-pr-batch-plan.md)
+- [The Vault Salvage Plan](./the-vault-salvage-plan.md)
 - [Personal Work Rollup Automation](./personal-work-rollup-automation.md)
 - [Identity-Grounded Work Rollups](../concepts/identity-grounded-work-rollups.md)
 
@@ -44,3 +47,5 @@
 - 2026-04-17 — Identity-grounded work rollups became an explicit design requirement after standup drafting mixed repo activity with other people's work. [Source: session recall, 2026-04-17 07:50 and 14:40 Discord]
 - 2026-04-18 — A scheduled morning review faulted when Slack MCP OAuth required browser authorization inside cron, which reinforced that non-interactive Slack-backed rollups are still fragile. [Source: session recall, 2026-04-18 08:07 Discord]
 - 2026-04-18 — The current operating rhythm shifted toward todo-board refreshes at 08:00 / 12:00 / 16:00 Bangkok, with standup drafting kept manual in chat until attribution is trustworthy. [Source: session recall, 2026-04-18 22:09 Discord]
+- 2026-04-19 — The `the-vault` migration plan shifted from selective-first salvage to bulk historical import first, then canonical overlay rewrites, and the updated strategy was written in [The Vault Salvage Plan](./the-vault-salvage-plan.md). [Source: William voice note + local repo update, 2026-04-19]
+- 2026-04-19 — The todo-board refresh cadence was narrowed from three daily runs to 08:00 / 16:00 Bangkok, while standup drafting remained manual in chat. [Source: session recall, 2026-04-19 15:06 Discord]
