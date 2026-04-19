@@ -1,0 +1,1 @@
+Read `projects/the-vault-pr-batch-plan.md` and `projects/the-vault-transfer-inventory.md`, then prepare the next approved 10-file migration PR from `the-vault` into `second-brain` without modifying the source vault.
