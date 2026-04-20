@@ -25,7 +25,7 @@ status: raw
 | **Valuation** | $2.5B (Series B, November 2025) |
 | **Customer scale** | 200,000+ paying members; 500,000+ waitlist |
 | **Key investors** | Andreessen Horowitz, Redpoint Ventures, Battery Ventures, Menlo Ventures |
-| **Key people** | [[jonathan-swerdlin|Jonathan Swerdlin]] (Co-Founder & CEO), [[mark-hyman|Mark Hyman]], M.D. (Co-Founder & CMO), Pranitha Patil (Co-Founder & CBO), Neil Shah (COO, ex-Slack), Mike Nemke (Co-Founder & CTO) |
+| **Key people** | [[jonathan-swerdlin|Jonathan Swerdlin]] (Co-Founder & CEO), Mark Hyman, M.D. (Co-Founder & CMO), Pranitha Patil (Co-Founder & CBO), Neil Shah (COO, ex-Slack), Mike Nemke (Co-Founder & CTO) |
 
 **Note:** Mike Krieger (Instagram co-founder) is NOT affiliated with Function Health—he is currently Chief Product Officer at Anthropic. This appears to be a common misconception.
 
@@ -153,7 +153,7 @@ Instagram-first approach with educational health content tied to biomarkers they
 - **Tech/Business**: Ari Emanuel (Endeavor CEO), Harvey Spevak (Equinox Chairman), Jeff Dean (Google)
 - **Health influencers**: Jay Shetty, Dr. Casey Means (Levels co-founder)
 
-**Medical thought leaders**: Dr. [[andrew-huberman|Andrew Huberman]] (Stanford, advisory board), Dr. Mark Hyman (co-founder), Dr. Casey Means (investor and promoter)
+**Medical thought leaders**: Dr. Andrew Huberman (Stanford, advisory board), Dr. Mark Hyman (co-founder), Dr. Casey Means (investor and promoter)
 
 Active **creator partnership program** with affiliate codes; job postings for "Talent & Influencer Partnerships Specialist" indicate continued investment.
 

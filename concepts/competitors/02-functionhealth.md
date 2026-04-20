@@ -28,7 +28,7 @@ Function Health has built the leading preventive health testing platform in the 
 | **Revenue run rate** | ~$100M (February 2025) |
 | **Employees** | ~32 (2023); likely 100+ now |
 | **CEO** | [[jonathan-swerdlin|Jonathan Swerdlin]] (serial healthcare entrepreneur) |
-| **CMO** | [[mark-hyman|Dr. Mark Hyman]] (functional medicine pioneer, 15x NYT bestselling author) |
+| **CMO** | Dr. Mark Hyman (functional medicine pioneer, 15x NYT bestselling author) |
 | **Lead investors** | Andreessen Horowitz (Series A), Redpoint Ventures (Series B) |
 | **Celebrity investors** | Matt Damon, Pedro Pascal, Kevin Hart, Zac Efron, Joel Embiid, Blake Griffin, Colin Kaepernick, Jay Shetty |
 
@@ -126,7 +126,7 @@ Function's organic strategy centers on **brand capture** (80K searches for "func
 Function's growth engine runs on **founder-led media** rather than traditional advertising. Dr. Hyman's podcast "The Dr. Hyman Show" (formerly Doctor's Farmacy) has generated 300+ million downloads and serves as the primary acquisition channel. His Instagram following (2.6M personal, 468K @function brand account) provides massive organic reach. Instagram impressions grew **3,519% YoY** in 2024.
 
 ### Influencer ecosystem
-**[[andrew-huberman|Andrew Huberman]]** sits on Function's Advisory Board and actively promotes with dedicated landing pages (functionhealth.com/asp/andrew-huberman) and discount codes. His Huberman Lab podcast appearance with Dr. Hyman drove significant awareness. Celebrity investors double as endorsers: Jay Shetty, Mari Llewellyn (fitness influencer), and NBA players promote through their own channels.
+**Andrew Huberman** sits on Function's Advisory Board and actively promotes with dedicated landing pages (functionhealth.com/asp/andrew-huberman) and discount codes. His Huberman Lab podcast appearance with Dr. Hyman drove significant awareness. Celebrity investors double as endorsers: Jay Shetty, Mari Llewellyn (fitness influencer), and NBA players promote through their own channels.
 
 ### Partnership strategy
 Function has pursued **lifestyle brand partnerships** extending reach beyond wellness enthusiasts: NBPA (exclusive "Biomarker Partner" for NBA players), Equinox ($40K "Optimize" tier integration), Sweetgreen (January 2026 partnership with Dr. Hyman-designed menu and $50 member credits), Thrive Global (enterprise wellness), and Erewhon (luxury grocery).

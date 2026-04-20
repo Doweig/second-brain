@@ -1451,7 +1451,7 @@ What type of package do you want to start with? As much as possible.
 
 Okay. Because that's the conclusion we have, right? We need like...
 
-What focus do you want? Like longevity or... Can it is possible you extract all the tests from functional? On the list for functional--How we doing? [[mark-hyman|Dr. Hyman]].
+What focus do you want? Like longevity or... Can it is possible you extract all the tests from functional? On the list for functional--How we doing? Dr. Hyman.
 
 Have you done that before? It's the same as too many tests. So this is the test from Henan Health if you want the Any health references here? I see there's just a little bit too many.
 

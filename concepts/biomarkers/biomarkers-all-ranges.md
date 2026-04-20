@@ -113,11 +113,11 @@ The mean ± 1 SD approach is a pragmatic simplification with two critical flaws:
 
 ## Longevity practitioners push aggressive targets but rarely publish formal ranges
 
-**[[peter-attia|Peter Attia]]** (author of *Outlive*) advocates ApoB of **30–40 mg/dL** (equivalent to a child's level), with an absolute ceiling of <60 mg/dL. He considers ApoB, Lp(a), OGTT with insulin, and hsCRP the most important tests, and views standard cholesterol panels as oversimplified. He notes ALT upper limits should be **<25 U/L (males)** and **<20 U/L (females)**, arguing the "normal" ceiling has been inflated by worsening population liver health. Most specific ranges are behind his premium paywall.
+**Peter Attia** (author of *Outlive*) advocates ApoB of **30–40 mg/dL** (equivalent to a child's level), with an absolute ceiling of <60 mg/dL. He considers ApoB, Lp(a), OGTT with insulin, and hsCRP the most important tests, and views standard cholesterol panels as oversimplified. He notes ALT upper limits should be **<25 U/L (males)** and **<20 U/L (females)**, arguing the "normal" ceiling has been inflated by worsening population liver health. Most specific ranges are behind his premium paywall.
 
 **[[bryan-johnson|Bryan Johnson]]** (Blueprint protocol) uses "Optimal Clinical Outcome Range" (OCOR) — self-coined terminology targeting levels seen in healthy 18-year-olds. His published targets are extremely aggressive: HbA1c <5.2% (achieves 4.5%), fasting insulin <5 µU/mL (achieves 3.0), LDL <70 mg/dL (achieves 45 using PCSK9 inhibitor), hsCRP <1.0 mg/L (achieves <0.1), and testosterone >450 ng/dL (achieves 941). His protocol costs reportedly $2M+/year and includes prescription medications (metformin, acarbose, rapamycin, Repatha) — making it an n=1 experiment, not a generalizable framework.
 
-**[[mark-hyman|Mark Hyman]]** does not publish specific numeric ranges publicly. He emphasizes fasting insulin as "probably the most important test" and advocates ApoB and Lp(a) over standard lipid panels. His optimal ranges are embedded in Function Health's platform (which he co-founded), but the methodology is undocumented.
+**Mark Hyman** does not publish specific numeric ranges publicly. He emphasizes fasting insulin as "probably the most important test" and advocates ApoB and Lp(a) over standard lipid panels. His optimal ranges are embedded in Function Health's platform (which he co-founded), but the methodology is undocumented.
 
 ---
 
@@ -139,7 +139,7 @@ Critically, InsideTracker has **three peer-reviewed publications**: a 2018 *Scie
 
 ### Function Health: significant methodology gap
 
-[[function-health|Function Health]] (founded 2022, $300M raised, Mark Hyman as Chief Medical Officer) tests **100+ biomarkers for $499/year** via Quest Diagnostics — the broadest panel at the most competitive price. Their advisory board includes JoAnn Manson (Harvard), [[andrew-huberman|Andrew Huberman]] (Stanford), and Toby Cosgrove (former Cleveland Clinic CEO).
+[[function-health|Function Health]] (founded 2022, $300M raised, Mark Hyman as Chief Medical Officer) tests **100+ biomarkers for $499/year** via Quest Diagnostics — the broadest panel at the most competitive price. Their advisory board includes JoAnn Manson (Harvard), Andrew Huberman (Stanford), and Toby Cosgrove (former Cleveland Clinic CEO).
 
 However, **Function Health has published zero methodology documentation, white papers, or peer-reviewed research**. STAT News ran a November 2025 headline directly questioning: "Function Health has won over consumers. When will it publish evidence?" Their optimal ranges appear rooted in functional medicine clinical tradition — one collaborator attributed them to "the ranges Dr. Hyman uses in his clinical practice, based on years of clinical experience." Multiple reviewers have noted inconsistencies between visual plots and text descriptions, generic rather than truly personalized recommendations, and potential for inducing health anxiety through aggressive out-of-range flagging.
 
