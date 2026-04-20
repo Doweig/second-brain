@@ -31,6 +31,7 @@
 
 ## Seed Pages
 - [[projects/second-brain|Second Brain]]
+- [[projects/the-vault-review-first-migration|The Vault Review-First Migration]]
 - [[projects/the-vault-salvage-plan|The Vault Salvage Plan]]
 - [[projects/the-vault-pr-batch-plan|The Vault PR Batch Migration Plan]]
 - [[projects/personal-work-rollup-automation|Personal Work Rollup Automation]]

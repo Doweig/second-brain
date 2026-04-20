@@ -1,8 +1,9 @@
 # The Vault Salvage Plan
 
-> Executive summary: The updated direction is a **bulk historical import + canonical overlay**. Move the whole markdown vault into `second-brain` as a dated historical layer so retrieval works immediately, preserve original paths/dates, then progressively rewrite the highest-value material into GBrain-native canonical pages.
+> Executive summary: Historical reference page for the 2026-04-19 **bulk historical import + canonical overlay** plan. This is no longer the active execution path after the later shift to [The Vault Review-First Migration](./the-vault-review-first-migration.md), but it remains useful as a fallback/reference strategy.
 
 ## State
+- **Current status:** Preserved as a historical/reference plan, not the active next step after the 2026-04-20 shift back to vault-first review. [Source: session recall, 2026-04-20 05:45 Discord; corroborated by local repo inspection, 2026-04-21]
 - `the-vault` currently contains 247 markdown files: 183 under `vault/`, 28 under `companies/`, 18 under `people/`, 7 under `strategy/`, and 7 under `docs/`. [Source: local repo inspection, 2026-04-19]
 - `second-brain` currently contains 31 markdown files and is still mostly scaffold plus a few operating pages. [Source: local repo inspection, 2026-04-19]
 - `knowledge` currently contains 241 markdown files, and at least 31 exact filename stems overlap with `the-vault`, so bulk import would create obvious duplication. [Source: local repo inspection, 2026-04-19]
@@ -86,6 +87,7 @@ gbrain features --json
 
 ## See Also
 - [Second Brain](./second-brain.md)
+- [The Vault Review-First Migration](./the-vault-review-first-migration.md)
 - [The Vault PR Batch Migration Plan](./the-vault-pr-batch-plan.md)
 - [the-vault source staging](../sources/the-vault/README.md)
 - [Resolver](../RESOLVER.md)
@@ -98,3 +100,4 @@ gbrain features --json
 - 2026-04-19 — Inspected `the-vault`, `knowledge`, and `second-brain`; confirmed a 247 / 241 / 31 markdown split, strong company-KB overlap, and a raw-heavy source vault. [Source: local repo inspection, 2026-04-19]
 - 2026-04-19 — Initial recommendation favored selective promotion first because of strong overlap with `knowledge` and a raw-heavy source vault. [Source: local repo inspection, 2026-04-19]
 - 2026-04-19 — William updated the preferred strategy to bulk historical import first, then layer canonical rewrites on top, with source dates preserved for temporal retrieval. [Source: William, voice note, 2026-04-19]
+- 2026-04-20 — William later changed the active migration stance again, moving execution back to a review-first workflow inside `the-vault`; this page remains as the preserved archive-first alternative/reference. [Source: session recall, 2026-04-20 05:45 Discord]

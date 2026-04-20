@@ -1,5 +1,10 @@
 # Log
 
+## 2026-04-21
+- Added `projects/the-vault-review-first-migration.md` to capture the now-current vault-first review / move-don't-move / migrate-later workflow for `the-vault`.
+- Updated `projects/second-brain.md` so the main project page now points to the review-first migration stance instead of treating the archive-first PR-batch plan as the default next step.
+- Marked the older archive-first artifacts (`projects/the-vault-salvage-plan.md`, `projects/the-vault-pr-batch-plan.md`, `sources/the-vault/README.md`, and `prompts/the-vault-pr-batch-handover.md`) as historical reference material rather than active execution docs.
+
 ## 2026-04-20
 - Added `projects/the-vault-salvage-plan.md` and `projects/the-vault-pr-batch-plan.md` so the archive-first `the-vault` migration stance and the reviewable PR-batch execution order are preserved as durable project pages.
 - Expanded `prompts/the-vault-pr-batch-handover.md` into a reusable prompt asset and updated `sources/the-vault/README.md` so provenance handling now matches the archive-first migration plan.

@@ -11,12 +11,12 @@
 - **Preferred chat surface:** Discord-first, with Telegram optional as a lighter side entry later.
 - **Slack stance:** The desired end state is a private analyst / user-auth workflow, not a visible app-style bot as the default surface.
 - **Voice capture:** Voice notes and spoken reflections are high-value inputs; TTS is deprioritized for now because recent experiments were frustrating.
-- **Migration stance:** `the-vault` is now being approached as an archive-first, PR-batched historical import followed by canonical overlay rewrites, not a selective-only salvage pass.
+- **Migration stance:** `the-vault` migration is currently in a review-first / vault-first phase: define move / don't-move rules inside `the-vault`, flag documents there, and only migrate approved material into `second-brain` later. The older archive-first pages in this repo now function as historical reference rather than the default next step. [Source: session recall, 2026-04-20 05:45 Discord; corroborated by local repo inspection, 2026-04-21]
 - **Current daily ops rhythm:** `ops/tasks.md` is refreshed as a todo board at 08:00 / 16:00 Bangkok, while standup drafting stays manual in chat until attribution and Slack auth are trustworthy.
 - **Embeddings:** Working in the current GBrain shell/runtime (`gbrain doctor --json` reported 91% coverage, 3 pages still missing embeddings on 2026-04-17)
 
 ## Open Threads
-- Execute the PR-driven archive import from [The Vault PR Batch Migration Plan](./the-vault-pr-batch-plan.md), then start canonical overlay rewrites from [The Vault Salvage Plan](./the-vault-salvage-plan.md)
+- Track the current `the-vault` migration stance in [The Vault Review-First Migration](./the-vault-review-first-migration.md), and only pull approved material into `second-brain` after the source-vault review stabilizes.
 - Decide whether any part of `task-vault` should be preserved verbatim versus translated into GBrain task patterns
 - Keep converting repeated operating themes into durable pages instead of leaving them only in sessions
 - Make work rollups / standups identity-grounded across Slack, GitHub, Linear, and local git before trusting narrative automation
@@ -28,6 +28,7 @@
 - [[RESOLVER]]
 - [[schema]]
 - [[ops/tasks]]
+- [The Vault Review-First Migration](./the-vault-review-first-migration.md)
 - [The Vault PR Batch Migration Plan](./the-vault-pr-batch-plan.md)
 - [The Vault Salvage Plan](./the-vault-salvage-plan.md)
 - [Personal Work Rollup Automation](./personal-work-rollup-automation.md)
@@ -49,3 +50,5 @@
 - 2026-04-18 — The current operating rhythm shifted toward todo-board refreshes at 08:00 / 12:00 / 16:00 Bangkok, with standup drafting kept manual in chat until attribution is trustworthy. [Source: session recall, 2026-04-18 22:09 Discord]
 - 2026-04-19 — The `the-vault` migration plan shifted from selective-first salvage to bulk historical import first, then canonical overlay rewrites, and the updated strategy was written in [The Vault Salvage Plan](./the-vault-salvage-plan.md). [Source: William voice note + local repo update, 2026-04-19]
 - 2026-04-19 — The todo-board refresh cadence was narrowed from three daily runs to 08:00 / 16:00 Bangkok, while standup drafting remained manual in chat. [Source: session recall, 2026-04-19 15:06 Discord]
+- 2026-04-20 — William changed the `the-vault` migration direction again: stop centering the work in `second-brain`, define rules inside `the-vault`, flag move / don't-move documents there, and migrate only after that review. [Source: session recall, 2026-04-20 05:45 Discord]
+- 2026-04-20 — The `second-brain` task board removed the archive-batch / canonical-overlay items, which reinforced that the review-first `the-vault` workflow had become the active execution path. [Source: session recall, 2026-04-20 09:11 Discord; corroborated by local repo inspection, 2026-04-21]

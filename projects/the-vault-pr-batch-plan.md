@@ -2,6 +2,8 @@
 
 > **For Hermes:** Use the `github-pr-workflow` skill. Execute one batch at a time. Never mix batches. Keep each migration PR to 5-10 moved vault files.
 
+> Historical reference page for the 2026-04-19 archive-first batch workflow. The active migration stance later shifted to [The Vault Review-First Migration](./the-vault-review-first-migration.md).
+
 **Goal:** Move `the-vault` into `second-brain` through small, reviewable PRs so William can approve, reject, or trim specific files before merge.
 
 **Architecture:** Archive-first import. Each PR copies 5-10 markdown files from `~/orba-health/the-vault` into `~/orba-health/second-brain/archive/the-vault/<same-relative-path>` unchanged, preserving path and historical date context. Canonical GBrain-native rewrites happen only after the archive batch is merged.
@@ -11,6 +13,7 @@
 ---
 
 ## State
+- **Current status:** Preserved as an archive-first reference plan, not the active execution path after the 2026-04-20 shift back to vault-first review. [Source: session recall, 2026-04-20 05:45 Discord; corroborated by local repo inspection, 2026-04-21]
 - `the-vault` currently contains 247 markdown files: 183 under `vault/`, 28 under `companies/`, 18 under `people/`, 7 under `strategy/`, and 7 under `docs/`. [Source: local repo inspection, 2026-04-19]
 - `second-brain` remote is `git@github.com:Doweig/second-brain.git`. [Source: `git remote -v`, 2026-04-19]
 - `second-brain` `main` is currently ahead of `origin/main` by 2 commits and the repo is dirty with migration-planning files, so batch branches should not start until the planning baseline is landed or otherwise isolated. [Source: `git branch -vv` and `git status --short`, 2026-04-19]
@@ -359,6 +362,7 @@ Those overlay PRs should be separate from archive-import PRs.
 
 ## See Also
 - [Second Brain](./second-brain.md)
+- [The Vault Review-First Migration](./the-vault-review-first-migration.md)
 - [The Vault Salvage Plan](./the-vault-salvage-plan.md)
 - [the-vault source staging](../sources/the-vault/README.md)
 - [the-vault PR batch handover](../prompts/the-vault-pr-batch-handover.md)
@@ -374,3 +378,4 @@ Follow `projects/the-vault-pr-batch-plan.md` and open the next 5-10-file `the-va
 ## Timeline
 - 2026-04-19 — William requested a PR-driven migration plan with 5-10 files per PR so he can review and reject specific files pre-merge. [Source: William, voice note, 2026-04-19]
 - 2026-04-19 — The first 16 archive batches were defined from live inspection of `the-vault`, with raw attachments deferred to later companion PRs. [Source: local repo inspection, 2026-04-19]
+- 2026-04-20 — William later shifted the active migration workflow back to review-first planning inside `the-vault`, so this page now serves as the preserved archive-first batch reference. [Source: session recall, 2026-04-20 05:45 Discord]
